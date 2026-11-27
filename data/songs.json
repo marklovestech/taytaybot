@@ -1,0 +1,3896 @@
+{
+ "meta": {
+  "description": "Catalog of released Taylor Swift songs: first album, year, and a few short signature phrases per song. Full lyrics are intentionally not stored.",
+  "source": "Wikipedia 'List of songs by Taylor Swift' (fetched 2026-11-26); phrases are short hooks only",
+  "counting_rule": "first_album is the album family the song first appeared on, with deluxe, bonus and reissue editions grouped under it (e.g. Fearless Platinum -> Fearless, Midnights 3am/Til Dawn -> Midnights, TTPD Anthology -> The Tortured Poets Department); Taylor's Version albums are separate, but a re-recording keeps its original first_album. year is when the song first appeared on that album (edition release year, e.g. Fearless Platinum tracks 2009). other_releases lists non-Taylor-album releases (soundtracks, other artists' albums). first_album is null for songs on no Taylor album. counts_toward_album_total excludes those and the 10-minute All Too Well.",
+  "album_song_total": 248,
+  "song_entries": 274,
+  "excluded": "covers of other writers' songs, alternate versions/remixes, and songs Swift wrote that only other artists released",
+  "phrases_pending": [
+   "The Outside",
+   "Christmas Must Be Something More",
+   "Christmases When You Were Mine",
+   "Hold On",
+   "Beautiful Eyes",
+   "I Heart ?",
+   "Crazier",
+   "Superstar",
+   "Two Is Better Than One",
+   "Both of Us",
+   "Beautiful Ghosts",
+   "Birch",
+   "Gasoline",
+   "Run",
+   "Electric Touch",
+   "Foolish One",
+   "The Alcott",
+   "Chloe or Sam or Sophia or Marcus",
+   "I Look in People's Windows",
+   "Peter",
+   "Robin",
+   "Actually Romantic",
+   "Cancelled!",
+   "Eldest Daughter",
+   "Honey",
+   "Opalite",
+   "The Life of a Showgirl",
+   "Babylon",
+   "Cleveland!",
+   "Pink Clouding"
+  ],
+  "updated": "2026-11-26"
+ },
+ "songs": [
+  {
+   "song": "A Perfectly Good Heart",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "why would you wanna break a perfectly good heart"
+   ]
+  },
+  {
+   "song": "A Place in This World",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'm just a girl trying to find a place in this world"
+   ]
+  },
+  {
+   "song": "Cold as You",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I've never been anywhere cold as you"
+   ]
+  },
+  {
+   "song": "I'm Only Me When I'm with You",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'm only me when I'm with you"
+   ]
+  },
+  {
+   "song": "Invisible",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I just wanna show you"
+   ]
+  },
+  {
+   "song": "Mary's Song (Oh My My My)",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "oh my my my"
+   ]
+  },
+  {
+   "song": "Our Song",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "our song is the slamming screen door"
+   ]
+  },
+  {
+   "song": "Picture to Burn",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "watch me strike a match"
+   ]
+  },
+  {
+   "song": "Should've Said No",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you should've said no"
+   ]
+  },
+  {
+   "song": "Stay Beautiful",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "stay beautiful"
+   ]
+  },
+  {
+   "song": "Teardrops on My Guitar",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "the reason for the teardrops on my guitar"
+   ]
+  },
+  {
+   "song": "The Outside",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Tied Together with a Smile",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you're tied together with a smile"
+   ]
+  },
+  {
+   "song": "Tim McGraw",
+   "first_album": "Taylor Swift",
+   "year": 2006,
+   "other_releases": [],
+   "all_albums": [
+    "Taylor Swift"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "when you think Tim McGraw"
+   ]
+  },
+  {
+   "song": "Christmas Must Be Something More",
+   "first_album": null,
+   "year": 2007,
+   "other_releases": [
+    "The Taylor Swift Holiday Collection"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Christmases When You Were Mine",
+   "first_album": null,
+   "year": 2007,
+   "other_releases": [
+    "The Taylor Swift Holiday Collection"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Hold On",
+   "first_album": null,
+   "year": 2007,
+   "other_releases": [
+    "Rhapsody Originals"
+   ],
+   "all_albums": [],
+   "artist_credit": "Jack Ingram featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Beautiful Eyes",
+   "first_album": null,
+   "year": 2008,
+   "other_releases": [
+    "Beautiful Eyes"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Breathe",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Colbie Caillat",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can't breathe without you"
+   ]
+  },
+  {
+   "song": "Change",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [
+    "AT&T Team USA Soundtrack"
+   ],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "these things will change"
+   ]
+  },
+  {
+   "song": "Fearless",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "with you I'd dance in a storm"
+   ]
+  },
+  {
+   "song": "Fifteen",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "when you're fifteen"
+   ]
+  },
+  {
+   "song": "Forever & Always",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "forever and always"
+   ]
+  },
+  {
+   "song": "Hey Stephen",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can't help it if you look like an angel"
+   ]
+  },
+  {
+   "song": "I Heart ?",
+   "first_album": null,
+   "year": 2008,
+   "other_releases": [
+    "Beautiful Eyes"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Love Story",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's a love story, baby, just say yes"
+   ]
+  },
+  {
+   "song": "Tell Me Why",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "why do you have to make me feel small"
+   ]
+  },
+  {
+   "song": "The Best Day",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I had the best day with you"
+   ]
+  },
+  {
+   "song": "The Way I Loved You",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I miss screaming and fighting and kissing in the rain"
+   ]
+  },
+  {
+   "song": "White Horse",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'm not a princess, this ain't a fairy tale"
+   ]
+  },
+  {
+   "song": "You Belong with Me",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you belong with me"
+   ]
+  },
+  {
+   "song": "You're Not Sorry",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you're not sorry"
+   ]
+  },
+  {
+   "song": "Come in with the Rain",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll leave my window open"
+   ]
+  },
+  {
+   "song": "Crazier",
+   "first_album": null,
+   "year": 2009,
+   "other_releases": [
+    "Hannah Montana: The Movie"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Half of My Heart",
+   "first_album": null,
+   "year": 2009,
+   "other_releases": [
+    "Battle Studies"
+   ],
+   "all_albums": [],
+   "artist_credit": "John Mayer featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "half of my heart"
+   ]
+  },
+  {
+   "song": "Jump Then Fall",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "jump then fall into me"
+   ]
+  },
+  {
+   "song": "Superstar",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "The Other Side of the Door",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all I really want is you"
+   ]
+  },
+  {
+   "song": "Two Is Better Than One",
+   "first_album": null,
+   "year": 2009,
+   "other_releases": [
+    "Love Drunk"
+   ],
+   "all_albums": [],
+   "artist_credit": "Boys Like Girls featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Untouchable",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come on, come on, little taste of heaven"
+   ]
+  },
+  {
+   "song": "Back to December",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I go back to December"
+   ]
+  },
+  {
+   "song": "Better than Revenge",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "there is nothing I do better than revenge"
+   ]
+  },
+  {
+   "song": "Dear John",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I should've known"
+   ]
+  },
+  {
+   "song": "Enchanted",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "please don't be in love with someone else"
+   ]
+  },
+  {
+   "song": "Haunted",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come on, come on, don't leave me like this"
+   ]
+  },
+  {
+   "song": "If This Was a Movie",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come back to me like you would"
+   ]
+  },
+  {
+   "song": "Innocent",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "today is never too late to be brand new"
+   ]
+  },
+  {
+   "song": "Last Kiss",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "never thought we'd have a last kiss"
+   ]
+  },
+  {
+   "song": "Long Live",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "long live all the mountains we moved"
+   ]
+  },
+  {
+   "song": "Mean",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "someday I'll be living in a big old city"
+   ]
+  },
+  {
+   "song": "Mine",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you are the best thing that's ever been mine"
+   ]
+  },
+  {
+   "song": "Never Grow Up",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "please try to never grow up"
+   ]
+  },
+  {
+   "song": "Ours",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "the stakes are high, the water's rough"
+   ]
+  },
+  {
+   "song": "Sparks Fly",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "drop everything now, meet me in the pouring rain"
+   ]
+  },
+  {
+   "song": "Speak Now",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "don't say yes, run away now"
+   ]
+  },
+  {
+   "song": "Superman",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I watch Superman fly away"
+   ]
+  },
+  {
+   "song": "The Story of Us",
+   "first_album": "Speak Now",
+   "year": 2010,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now",
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "the story of us looks a lot like a tragedy"
+   ]
+  },
+  {
+   "song": "Safe & Sound",
+   "first_album": null,
+   "year": 2011,
+   "other_releases": [
+    "The Hunger Games"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift featuring the Civil Wars",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "just close your eyes"
+   ]
+  },
+  {
+   "song": "22",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "feeling twenty-two"
+   ]
+  },
+  {
+   "song": "All Too Well",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I remember it all too well"
+   ]
+  },
+  {
+   "song": "Begin Again",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I watched it begin again"
+   ]
+  },
+  {
+   "song": "Both of Us",
+   "first_album": null,
+   "year": 2012,
+   "other_releases": [
+    "Strange Clouds"
+   ],
+   "all_albums": [],
+   "artist_credit": "B.o.B featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Come Back... Be Here",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come back, be here"
+   ]
+  },
+  {
+   "song": "Everything Has Changed",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Ed Sheeran",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all I know is a newfound grace"
+   ]
+  },
+  {
+   "song": "Eyes Open",
+   "first_album": null,
+   "year": 2012,
+   "other_releases": [
+    "The Hunger Games"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "keep your eyes open"
+   ]
+  },
+  {
+   "song": "Girl at Home",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "don't look at me, you've got a girl at home"
+   ]
+  },
+  {
+   "song": "Holy Ground",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I guess we fell apart in the usual way"
+   ]
+  },
+  {
+   "song": "I Almost Do",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I almost do"
+   ]
+  },
+  {
+   "song": "I Knew You Were Trouble",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I knew you were trouble when you walked in"
+   ]
+  },
+  {
+   "song": "Red",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "loving him was red"
+   ]
+  },
+  {
+   "song": "Sad Beautiful Tragic",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "sad, beautiful, tragic love affair"
+   ]
+  },
+  {
+   "song": "Starlight",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "don't you see the starlight"
+   ]
+  },
+  {
+   "song": "State of Grace",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this is the golden age"
+   ]
+  },
+  {
+   "song": "Stay Stay Stay",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "stay, stay, stay"
+   ]
+  },
+  {
+   "song": "The Last Time",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Gary Lightbody of Snow Patrol",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this is the last time I'm asking you this"
+   ]
+  },
+  {
+   "song": "The Lucky One",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "they tell you that you're lucky"
+   ]
+  },
+  {
+   "song": "The Moment I Knew",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "and it was like slow motion"
+   ]
+  },
+  {
+   "song": "Treacherous",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "nothing safe is worth the drive"
+   ]
+  },
+  {
+   "song": "We Are Never Ever Getting Back Together",
+   "first_album": "Red",
+   "year": 2012,
+   "other_releases": [],
+   "all_albums": [
+    "Red",
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we are never ever getting back together"
+   ]
+  },
+  {
+   "song": "Highway Don't Care",
+   "first_album": null,
+   "year": 2013,
+   "other_releases": [
+    "Two Lanes of Freedom"
+   ],
+   "all_albums": [],
+   "artist_credit": "Tim McGraw and Taylor Swift featuring Keith Urban",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "highway don't care"
+   ]
+  },
+  {
+   "song": "All You Had to Do Was Stay",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all you had to do was stay"
+   ]
+  },
+  {
+   "song": "Bad Blood",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "now we got bad blood"
+   ]
+  },
+  {
+   "song": "Blank Space",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I've got a blank space, baby"
+   ]
+  },
+  {
+   "song": "Clean",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I think I am finally clean"
+   ]
+  },
+  {
+   "song": "How You Get the Girl",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "that's how you get the girl"
+   ]
+  },
+  {
+   "song": "I Know Places",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I know places we won't be found"
+   ]
+  },
+  {
+   "song": "I Wish You Would",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I wish you would come back"
+   ]
+  },
+  {
+   "song": "New Romantics",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we are too busy dancing"
+   ]
+  },
+  {
+   "song": "Out of the Woods",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "are we out of the woods yet"
+   ]
+  },
+  {
+   "song": "Shake It Off",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "shake it off"
+   ]
+  },
+  {
+   "song": "Style",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we never go out of style"
+   ]
+  },
+  {
+   "song": "This Love",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this love came back to me"
+   ]
+  },
+  {
+   "song": "Welcome to New York",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "welcome to New York"
+   ]
+  },
+  {
+   "song": "Wildest Dreams",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "say you'll remember me"
+   ]
+  },
+  {
+   "song": "Wonderland",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we found wonderland"
+   ]
+  },
+  {
+   "song": "You Are in Love",
+   "first_album": "1989",
+   "year": 2014,
+   "other_releases": [],
+   "all_albums": [
+    "1989",
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you can hear it in the silence"
+   ]
+  },
+  {
+   "song": "I Don't Wanna Live Forever",
+   "first_album": null,
+   "year": 2016,
+   "other_releases": [
+    "Fifty Shades Darker: Original Motion Picture Soundtrack"
+   ],
+   "all_albums": [],
+   "artist_credit": "Zayn and Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "I don't wanna live forever"
+   ]
+  },
+  {
+   "song": "...Ready for It?",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "are you ready for it"
+   ]
+  },
+  {
+   "song": "Call It What You Want",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "call it what you want"
+   ]
+  },
+  {
+   "song": "Dancing with Our Hands Tied",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "dancing with our hands tied"
+   ]
+  },
+  {
+   "song": "Delicate",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "is it cool that I said all that"
+   ]
+  },
+  {
+   "song": "Don't Blame Me",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "love made me crazy"
+   ]
+  },
+  {
+   "song": "Dress",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "only bought this dress so you could take it off"
+   ]
+  },
+  {
+   "song": "End Game",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift featuring Ed Sheeran and Future",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I wanna be your end game"
+   ]
+  },
+  {
+   "song": "Getaway Car",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "nothing good starts in a getaway car"
+   ]
+  },
+  {
+   "song": "Gorgeous",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you're so gorgeous"
+   ]
+  },
+  {
+   "song": "I Did Something Bad",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "they say I did something bad"
+   ]
+  },
+  {
+   "song": "King of My Heart",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "king of my heart, body and soul"
+   ]
+  },
+  {
+   "song": "Look What You Made Me Do",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "look what you made me do"
+   ]
+  },
+  {
+   "song": "New Year's Day",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll be cleaning up bottles with you"
+   ]
+  },
+  {
+   "song": "So It Goes...",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you did a number on me"
+   ]
+  },
+  {
+   "song": "This Is Why We Can't Have Nice Things",
+   "first_album": "Reputation",
+   "year": 2017,
+   "other_releases": [],
+   "all_albums": [
+    "Reputation"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this is why we can't have nice things"
+   ]
+  },
+  {
+   "song": "Afterglow",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "meet me in the afterglow"
+   ]
+  },
+  {
+   "song": "Beautiful Ghosts",
+   "first_album": null,
+   "year": 2019,
+   "other_releases": [
+    "Cats: Highlights from the Motion Picture Soundtrack"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Christmas Tree Farm",
+   "first_album": null,
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "in my heart is a Christmas tree farm"
+   ]
+  },
+  {
+   "song": "Cornelia Street",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'd never walk Cornelia Street again"
+   ]
+  },
+  {
+   "song": "Cruel Summer",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I love you, ain't that the worst thing"
+   ]
+  },
+  {
+   "song": "Daylight",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I want to be defined by the things that I love"
+   ]
+  },
+  {
+   "song": "Death by a Thousand Cuts",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I look through the windows of this love"
+   ]
+  },
+  {
+   "song": "False God",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we'd still worship this love"
+   ]
+  },
+  {
+   "song": "I Forgot That You Existed",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it isn't love, it isn't hate"
+   ]
+  },
+  {
+   "song": "I Think He Knows",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I think he knows"
+   ]
+  },
+  {
+   "song": "It's Nice to Have a Friend",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's nice to have a friend"
+   ]
+  },
+  {
+   "song": "London Boy",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you know I love a London boy"
+   ]
+  },
+  {
+   "song": "Lover",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "can I go where you go"
+   ]
+  },
+  {
+   "song": "Me!",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift featuring Brendon Urie of Panic! at the Disco",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you'll never find another like me"
+   ]
+  },
+  {
+   "song": "Miss Americana & the Heartbreak Prince",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's you and me, that's my whole world"
+   ]
+  },
+  {
+   "song": "Paper Rings",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I like shiny things, but I'd marry you with paper rings"
+   ]
+  },
+  {
+   "song": "Soon You'll Get Better",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift featuring the Dixie Chicks",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you'll get better soon"
+   ]
+  },
+  {
+   "song": "The Archer",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "who could ever leave me, darling"
+   ]
+  },
+  {
+   "song": "The Man",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'd be the man"
+   ]
+  },
+  {
+   "song": "You Need to Calm Down",
+   "first_album": "Lover",
+   "year": 2019,
+   "other_releases": [],
+   "all_albums": [
+    "Lover"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you need to calm down"
+   ]
+  },
+  {
+   "song": "August",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "august slipped away"
+   ]
+  },
+  {
+   "song": "Betty",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "would you tell me to go straight to hell"
+   ]
+  },
+  {
+   "song": "Cardigan",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "when you are young, they assume you know nothing"
+   ]
+  },
+  {
+   "song": "Champagne Problems",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "your heart was glass, I dropped it"
+   ]
+  },
+  {
+   "song": "Closure",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I don't need your closure"
+   ]
+  },
+  {
+   "song": "Coney Island",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift featuring the National",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "sorry for not making you my centerfold"
+   ]
+  },
+  {
+   "song": "Cowboy like Me",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "takes one to know one"
+   ]
+  },
+  {
+   "song": "Dorothea",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's never too late to come back to my side"
+   ]
+  },
+  {
+   "song": "Epiphany",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "some things you just can't speak about"
+   ]
+  },
+  {
+   "song": "Evermore",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift featuring Bon Iver",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this pain wouldn't be for evermore"
+   ]
+  },
+  {
+   "song": "Exile",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift featuring Bon Iver",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I think I've seen this film before"
+   ]
+  },
+  {
+   "song": "Gold Rush",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I don't like a gold rush"
+   ]
+  },
+  {
+   "song": "Happiness",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "there'll be happiness after you"
+   ]
+  },
+  {
+   "song": "Hoax",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "my only one, my smoking gun"
+   ]
+  },
+  {
+   "song": "Illicit Affairs",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you showed me colors you know I can't see"
+   ]
+  },
+  {
+   "song": "Invisible String",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "one single thread of gold tied me to you"
+   ]
+  },
+  {
+   "song": "It's Time to Go",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "sometimes giving up is the strong thing"
+   ]
+  },
+  {
+   "song": "Ivy",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "my pain fits in the palm of your freezing hand"
+   ]
+  },
+  {
+   "song": "Long Story Short",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "long story short, I survived"
+   ]
+  },
+  {
+   "song": "Mad Woman",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "no one likes a mad woman"
+   ]
+  },
+  {
+   "song": "Marjorie",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "what died didn't stay dead"
+   ]
+  },
+  {
+   "song": "Mirrorball",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll show you every version of yourself tonight"
+   ]
+  },
+  {
+   "song": "My Tears Ricochet",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can go anywhere I want, just not home"
+   ]
+  },
+  {
+   "song": "No Body, No Crime",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift featuring Haim",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I think he did it"
+   ]
+  },
+  {
+   "song": "Only the Young",
+   "first_album": null,
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "only the young can run"
+   ]
+  },
+  {
+   "song": "Peace",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "would it be enough if I could never give you peace"
+   ]
+  },
+  {
+   "song": "Right Where You Left Me",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'm right where you left me"
+   ]
+  },
+  {
+   "song": "Seven",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "please picture me in the trees"
+   ]
+  },
+  {
+   "song": "The 1",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it would've been fun"
+   ]
+  },
+  {
+   "song": "The Lakes",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "take me to the lakes"
+   ]
+  },
+  {
+   "song": "The Last Great American Dynasty",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "the loudest woman this town has ever seen"
+   ]
+  },
+  {
+   "song": "This Is Me Trying",
+   "first_album": "Folklore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Folklore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "at least I'm trying"
+   ]
+  },
+  {
+   "song": "Tis the Damn Season",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's the damn season"
+   ]
+  },
+  {
+   "song": "Tolerate It",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I know my love should be celebrated"
+   ]
+  },
+  {
+   "song": "Willow",
+   "first_album": "Evermore",
+   "year": 2020,
+   "other_releases": [],
+   "all_albums": [
+    "Evermore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "wherever you stray, I follow"
+   ]
+  },
+  {
+   "song": "All Too Well (10 Minute Version)",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "you kept me like a secret, but I kept you like an oath"
+   ],
+   "same_song_as": "All Too Well"
+  },
+  {
+   "song": "Babe",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [
+    "Bigger"
+   ],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Sugarland featuring Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "what about your promises"
+   ]
+  },
+  {
+   "song": "Better Man",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [
+    "The Breaker"
+   ],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Little Big Town",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I wish you were a better man"
+   ]
+  },
+  {
+   "song": "Birch",
+   "first_album": null,
+   "year": 2021,
+   "other_releases": [
+    "How Long Do You Think It's Gonna Last?"
+   ],
+   "all_albums": [],
+   "artist_credit": "Big Red Machine featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Bye Bye Baby",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "bye bye baby"
+   ]
+  },
+  {
+   "song": "Don't You",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "don't you smile at me and ask me how I've been"
+   ]
+  },
+  {
+   "song": "Forever Winter",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll be summer sun for you forever"
+   ]
+  },
+  {
+   "song": "Gasoline",
+   "first_album": null,
+   "year": 2021,
+   "other_releases": [
+    "Women in Music Pt. III"
+   ],
+   "all_albums": [],
+   "artist_credit": "Haim and Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "I Bet You Think About Me",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Chris Stapleton",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I bet you think about me"
+   ]
+  },
+  {
+   "song": "Message in a Bottle",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "message in a bottle is all I can do"
+   ]
+  },
+  {
+   "song": "Mr. Perfectly Fine",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "hello, Mr. Perfectly Fine"
+   ]
+  },
+  {
+   "song": "Nothing New",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Phoebe Bridgers",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "how can a person know everything at eighteen"
+   ]
+  },
+  {
+   "song": "Renegade",
+   "first_album": null,
+   "year": 2021,
+   "other_releases": [
+    "How Long Do You Think It's Gonna Last?"
+   ],
+   "all_albums": [],
+   "artist_credit": "Big Red Machine featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "is it insensitive for me to say"
+   ]
+  },
+  {
+   "song": "Ronan",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you were my best four years"
+   ]
+  },
+  {
+   "song": "Run",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Ed Sheeran",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "That's When",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Keith Urban",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "that's when I'll be waiting"
+   ]
+  },
+  {
+   "song": "The Very First Night",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Red (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I wish I could fly"
+   ]
+  },
+  {
+   "song": "Today Was a Fairytale",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [
+    "Valentine's Day"
+   ],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "today was a fairytale"
+   ]
+  },
+  {
+   "song": "We Were Happy",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we were happy"
+   ]
+  },
+  {
+   "song": "You All Over Me",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Maren Morris",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I still got you all over me"
+   ]
+  },
+  {
+   "song": "Anti-Hero",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it's me, hi, I'm the problem"
+   ]
+  },
+  {
+   "song": "Bejeweled",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can still make the whole place shimmer"
+   ]
+  },
+  {
+   "song": "Bigger Than the Whole Sky",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "bigger than the whole sky"
+   ]
+  },
+  {
+   "song": "Carolina",
+   "first_album": null,
+   "year": 2022,
+   "other_releases": [
+    "Where the Crawdads Sing (Original Motion Picture Soundtrack)"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "Carolina knows"
+   ]
+  },
+  {
+   "song": "Dear Reader",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "never take advice from someone who's falling apart"
+   ]
+  },
+  {
+   "song": "Glitch",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we were supposed to be just friends"
+   ]
+  },
+  {
+   "song": "High Infidelity",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "do you really want to know where I was April 29th"
+   ]
+  },
+  {
+   "song": "Hits Different",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (Til Dawn Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it hits different this time"
+   ]
+  },
+  {
+   "song": "Karma",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "karma is a cat"
+   ]
+  },
+  {
+   "song": "Labyrinth",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "oh no, I'm falling in love again"
+   ]
+  },
+  {
+   "song": "Lavender Haze",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "meet me at midnight"
+   ]
+  },
+  {
+   "song": "Maroon",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "so scarlet, it was maroon"
+   ]
+  },
+  {
+   "song": "Mastermind",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it was all by design"
+   ]
+  },
+  {
+   "song": "Midnight Rain",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "he wanted comfortable, I wanted that pain"
+   ]
+  },
+  {
+   "song": "Paris",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we were somewhere else"
+   ]
+  },
+  {
+   "song": "Question...?",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "can I ask you a question"
+   ]
+  },
+  {
+   "song": "Snow on the Beach",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift featuring Lana Del Rey",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "weird but beautiful"
+   ]
+  },
+  {
+   "song": "Sweet Nothing",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all that you ever wanted from me was sweet nothing"
+   ]
+  },
+  {
+   "song": "The Great War",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we survived the Great War"
+   ]
+  },
+  {
+   "song": "The Joker and the Queen",
+   "first_album": null,
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [],
+   "artist_credit": "Ed Sheeran featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "the joker and the queen"
+   ]
+  },
+  {
+   "song": "Vigilante Shit",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I don't start shit, but I can tell you how it ends"
+   ]
+  },
+  {
+   "song": "Would've, Could've, Should've",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (3am Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "give me back my girlhood"
+   ]
+  },
+  {
+   "song": "You're on Your Own, Kid",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you're on your own, kid"
+   ]
+  },
+  {
+   "song": "All of the Girls You Loved Before",
+   "first_album": null,
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "all of the girls you loved before"
+   ]
+  },
+  {
+   "song": "Castles Crumbling",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Hayley Williams",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "watch all my bridges burn to the ground"
+   ]
+  },
+  {
+   "song": "Electric Touch",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift featuring Fall Out Boy",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Foolish One",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "I Can See You",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can see you"
+   ]
+  },
+  {
+   "song": "Is It Over Now?",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "was it over when she laid down on your couch"
+   ]
+  },
+  {
+   "song": "Now That We Don't Talk",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "now that we don't talk"
+   ]
+  },
+  {
+   "song": "Say Don't Go",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "say don't go"
+   ]
+  },
+  {
+   "song": "Slut!",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "if they call me a slut"
+   ]
+  },
+  {
+   "song": "Suburban Legends",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "we were born to be suburban legends"
+   ]
+  },
+  {
+   "song": "Sweeter than Fiction",
+   "first_album": "1989 (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [
+    "One Chance"
+   ],
+   "all_albums": [
+    "1989 (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "your eyes wider than distance"
+   ]
+  },
+  {
+   "song": "The Alcott",
+   "first_album": null,
+   "year": 2023,
+   "other_releases": [
+    "First Two Pages of Frankenstein"
+   ],
+   "all_albums": [],
+   "artist_credit": "The National featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Timeless",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "our love would be timeless"
+   ]
+  },
+  {
+   "song": "When Emma Falls in Love",
+   "first_album": "Speak Now (Taylor's Version)",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Speak Now (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "when Emma falls in love"
+   ]
+  },
+  {
+   "song": "You're Losing Me",
+   "first_album": "Midnights",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (The Late Night Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can't find a pulse"
+   ]
+  },
+  {
+   "song": "But Daddy I Love Him",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "but daddy, I love him"
+   ]
+  },
+  {
+   "song": "Cassandra",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "they knew, they knew"
+   ]
+  },
+  {
+   "song": "Chloe or Sam or Sophia or Marcus",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Clara Bow",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you look like Clara Bow in this light"
+   ]
+  },
+  {
+   "song": "Down Bad",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "down bad, crying at the gym"
+   ]
+  },
+  {
+   "song": "Florida!!!",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift featuring Florence and the Machine",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "Florida is one hell of a drug"
+   ]
+  },
+  {
+   "song": "Fortnight",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift featuring Post Malone",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "for a fortnight there, we were forever"
+   ]
+  },
+  {
+   "song": "Fresh Out the Slammer",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "now that I'm fresh out the slammer"
+   ]
+  },
+  {
+   "song": "Guilty as Sin?",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "what if he's written mine on my upper thigh"
+   ]
+  },
+  {
+   "song": "How Did It End?",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "how did it end"
+   ]
+  },
+  {
+   "song": "I Can Do It with a Broken Heart",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can do it with a broken heart"
+   ]
+  },
+  {
+   "song": "I Can Fix Him (No Really I Can)",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can fix him, no really I can"
+   ]
+  },
+  {
+   "song": "I Hate It Here",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I hate it here"
+   ]
+  },
+  {
+   "song": "I Look in People's Windows",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Imgonnagetyouback",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'm gonna get you back"
+   ]
+  },
+  {
+   "song": "Loml",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "loss of my life"
+   ]
+  },
+  {
+   "song": "My Boy Only Breaks His Favorite Toys",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "my boy only breaks his favorite toys"
+   ]
+  },
+  {
+   "song": "Peter",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Robin",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "So High School",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I feel so high school every time I look at you"
+   ]
+  },
+  {
+   "song": "So Long, London",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "so long, London"
+   ]
+  },
+  {
+   "song": "Thank You Aimee",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "thank you, Aimee"
+   ]
+  },
+  {
+   "song": "The Albatross",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "she's the albatross"
+   ]
+  },
+  {
+   "song": "The Alchemy",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "this happens once every few lifetimes"
+   ]
+  },
+  {
+   "song": "The Black Dog",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "old habits die screaming"
+   ]
+  },
+  {
+   "song": "The Bolter",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "she's the bolter"
+   ]
+  },
+  {
+   "song": "The Manuscript",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "the story isn't mine anymore"
+   ]
+  },
+  {
+   "song": "The Prophecy",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department: The Anthology"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "who do I have to speak to about if they can redo the prophecy"
+   ]
+  },
+  {
+   "song": "The Smallest Man Who Ever Lived",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you are what you did"
+   ]
+  },
+  {
+   "song": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "who uses typewriters anyway"
+   ]
+  },
+  {
+   "song": "Us",
+   "first_album": null,
+   "year": 2024,
+   "other_releases": [
+    "The Secret of Us"
+   ],
+   "all_albums": [],
+   "artist_credit": "Gracie Abrams featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "do you miss us"
+   ]
+  },
+  {
+   "song": "Who's Afraid of Little Old Me?",
+   "first_album": "The Tortured Poets Department",
+   "year": 2024,
+   "other_releases": [],
+   "all_albums": [
+    "The Tortured Poets Department"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "you should be"
+   ]
+  },
+  {
+   "song": "Actually Romantic",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Cancelled!",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Eldest Daughter",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Elizabeth Taylor",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I cry my eyes violet",
+    "I would trade the Cartier for someone to trust"
+   ]
+  },
+  {
+   "song": "Father Figure",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I will be your father figure"
+   ]
+  },
+  {
+   "song": "Honey",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Opalite",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Ruin the Friendship",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "ruin the friendship"
+   ]
+  },
+  {
+   "song": "The Fate of Ophelia",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "keep it one hundred"
+   ]
+  },
+  {
+   "song": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift featuring Sabrina Carpenter",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Wish List",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I got the whole block looking like you"
+   ]
+  },
+  {
+   "song": "Wood",
+   "first_album": "The Life of a Showgirl",
+   "year": 2025,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I ain't gotta knock on wood"
+   ]
+  },
+  {
+   "song": "Babylon",
+   "first_album": "The Life of a Showgirl",
+   "year": 2026,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl: The Encore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Cleveland!",
+   "first_album": "The Life of a Showgirl",
+   "year": 2026,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl: The Encore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "I Knew It, I Knew You",
+   "first_album": null,
+   "year": 2026,
+   "other_releases": [
+    "Toy Story 5 (Original Motion Picture Soundtrack)"
+   ],
+   "all_albums": [],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "life has ways of leaving those days behind",
+    "love has ways of bringing things back to life",
+    "parachutes for the free fall of being younger"
+   ]
+  },
+  {
+   "song": "Patient Zero",
+   "first_album": "The Life of a Showgirl",
+   "year": 2026,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl: The Encore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I was patient zero"
+   ]
+  },
+  {
+   "song": "Pink Clouding",
+   "first_album": "The Life of a Showgirl",
+   "year": 2026,
+   "other_releases": [],
+   "all_albums": [
+    "The Life of a Showgirl: The Encore"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  }
+ ]
+}
