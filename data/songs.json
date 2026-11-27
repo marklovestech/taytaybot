@@ -1,23 +1,25 @@
 {
  "meta": {
-  "description": "Catalog of released Taylor Swift songs: album, year, and a few short signature phrases per song. Full lyrics are intentionally not stored.",
+  "description": "Catalog of released Taylor Swift songs: first album, year, and a few short signature phrases per song. Full lyrics are intentionally not stored.",
   "source": "Wikipedia 'List of songs by Taylor Swift' (fetched 2026-11-26); phrases are short hooks only",
-  "counting_rule": "album_edition_first = earliest album edition containing the song (deluxe editions included; Taylor's Version re-recordings not counted again). counts_toward_album_total excludes non-album songs and the 10-minute All Too Well.",
+  "counting_rule": "first_album is the album family the song first appeared on, with deluxe, bonus and reissue editions grouped under it (e.g. Fearless Platinum -> Fearless, Midnights 3am/Til Dawn -> Midnights, TTPD Anthology -> The Tortured Poets Department); Taylor's Version albums are separate, but a re-recording keeps its original first_album. year is when the song first appeared on that album. first_album is null for songs on no Taylor album. counts_toward_album_total excludes those and the 10-minute All Too Well.",
   "album_song_total": 248,
-  "song_entries": 268,
-  "excluded": "covers of other writers' songs, and songs Swift wrote that only other artists released",
-  "updated": "2026-11-26",
+  "song_entries": 274,
+  "excluded": "covers of other writers' songs, alternate versions/remixes, and songs Swift wrote that only other artists released",
   "phrases_pending": [
    "The Outside",
    "Christmas Must Be Something More",
    "Christmases When You Were Mine",
+   "Hold On",
    "Beautiful Eyes",
    "I Heart ?",
-   "Crazier",
    "Superstar",
+   "Crazier",
    "Two Is Better Than One",
    "Both of Us",
    "Beautiful Ghosts",
+   "Birch",
+   "Gasoline",
    "Run",
    "Electric Touch",
    "Foolish One",
@@ -36,15 +38,15 @@
    "Cleveland!",
    "Pink Clouding"
   ],
-  "phrases_note": "Songs in phrases_pending have no phrase yet (mostly 2025-2026 releases and obscure non-album tracks); add short hooks as they are verified."
+  "updated": "2026-11-26"
  },
  "songs": [
   {
    "song": "A Perfectly Good Heart",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -55,10 +57,10 @@
   },
   {
    "song": "A Place in This World",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -69,10 +71,10 @@
   },
   {
    "song": "Cold as You",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -83,10 +85,10 @@
   },
   {
    "song": "I'm Only Me When I'm with You",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -97,10 +99,10 @@
   },
   {
    "song": "Invisible",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -111,10 +113,10 @@
   },
   {
    "song": "Mary's Song (Oh My My My)",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -125,10 +127,10 @@
   },
   {
    "song": "Our Song",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -139,10 +141,10 @@
   },
   {
    "song": "Picture to Burn",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -153,10 +155,10 @@
   },
   {
    "song": "Should've Said No",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -167,10 +169,10 @@
   },
   {
    "song": "Stay Beautiful",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -181,10 +183,10 @@
   },
   {
    "song": "Teardrops on My Guitar",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -195,10 +197,10 @@
   },
   {
    "song": "The Outside",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -207,10 +209,10 @@
   },
   {
    "song": "Tied Together with a Smile",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -221,10 +223,10 @@
   },
   {
    "song": "Tim McGraw",
-   "album": "Taylor Swift",
-   "album_edition_first": "Taylor Swift",
+   "first_album": "Taylor Swift",
    "year": 2006,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Taylor Swift"
    ],
    "artist_credit": "Taylor Swift",
@@ -235,46 +237,58 @@
   },
   {
    "song": "Christmas Must Be Something More",
-   "album": "The Taylor Swift Holiday Collection",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2007,
-   "all_releases": [
+   "other_releases": [
     "The Taylor Swift Holiday Collection"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
    "song": "Christmases When You Were Mine",
-   "album": "The Taylor Swift Holiday Collection",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2007,
-   "all_releases": [
+   "other_releases": [
     "The Taylor Swift Holiday Collection"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
+   "song": "Hold On",
+   "first_album": null,
+   "year": 2007,
+   "other_releases": [
+    "Rhapsody Originals"
+   ],
+   "all_albums": [],
+   "artist_credit": "Jack Ingram featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
    "song": "Beautiful Eyes",
-   "album": "Beautiful Eyes",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2008,
-   "all_releases": [
+   "other_releases": [
     "Beautiful Eyes"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
    "song": "Breathe",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -286,11 +300,12 @@
   },
   {
    "song": "Change",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
-    "AT&T Team USA Soundtrack",
+   "other_releases": [
+    "AT&T Team USA Soundtrack"
+   ],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -301,11 +316,26 @@
    ]
   },
   {
-   "song": "Fearless",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "song": "Come in with the Rain",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll leave my window open"
+   ]
+  },
+  {
+   "song": "Fearless",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -317,10 +347,10 @@
   },
   {
    "song": "Fifteen",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -332,10 +362,10 @@
   },
   {
    "song": "Forever & Always",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -347,10 +377,10 @@
   },
   {
    "song": "Hey Stephen",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -362,22 +392,37 @@
   },
   {
    "song": "I Heart ?",
-   "album": "Beautiful Eyes",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2008,
-   "all_releases": [
+   "other_releases": [
     "Beautiful Eyes"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
-   "song": "Love Story",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "song": "Jump Then Fall",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "jump then fall into me"
+   ]
+  },
+  {
+   "song": "Love Story",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -388,11 +433,24 @@
    ]
   },
   {
-   "song": "Tell Me Why",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "song": "Superstar",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "Tell Me Why",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -404,10 +462,10 @@
   },
   {
    "song": "The Best Day",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -418,11 +476,26 @@
    ]
   },
   {
-   "song": "The Way I Loved You",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "song": "The Other Side of the Door",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all I really want is you"
+   ]
+  },
+  {
+   "song": "The Way I Loved You",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -433,11 +506,26 @@
    ]
   },
   {
-   "song": "White Horse",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "song": "Untouchable",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come on, come on, little taste of heaven"
+   ]
+  },
+  {
+   "song": "White Horse",
+   "first_album": "Fearless",
+   "year": 2008,
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -449,10 +537,10 @@
   },
   {
    "song": "You Belong with Me",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -464,10 +552,10 @@
   },
   {
    "song": "You're Not Sorry",
-   "album": "Fearless",
-   "album_edition_first": "Fearless",
+   "first_album": "Fearless",
    "year": 2008,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless",
     "Fearless (Taylor's Version)"
    ],
@@ -478,108 +566,49 @@
    ]
   },
   {
-   "song": "Come in with the Rain",
-   "album": "Fearless: Platinum Edition",
-   "album_edition_first": "Fearless: Platinum Edition",
-   "year": 2009,
-   "all_releases": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "I'll leave my window open"
-   ]
-  },
-  {
    "song": "Crazier",
-   "album": "Hannah Montana: The Movie",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2009,
-   "all_releases": [
+   "other_releases": [
     "Hannah Montana: The Movie"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
-   "song": "Jump Then Fall",
-   "album": "Fearless: Platinum Edition",
-   "album_edition_first": "Fearless: Platinum Edition",
+   "song": "Half of My Heart",
+   "first_album": null,
    "year": 2009,
-   "all_releases": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
+   "other_releases": [
+    "Battle Studies"
    ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
+   "all_albums": [],
+   "artist_credit": "John Mayer featuring Taylor Swift",
+   "counts_toward_album_total": false,
    "signature_phrases": [
-    "jump then fall into me"
-   ]
-  },
-  {
-   "song": "Superstar",
-   "album": "Fearless: Platinum Edition",
-   "album_edition_first": "Fearless: Platinum Edition",
-   "year": 2009,
-   "all_releases": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": []
-  },
-  {
-   "song": "The Other Side of the Door",
-   "album": "Fearless: Platinum Edition",
-   "album_edition_first": "Fearless: Platinum Edition",
-   "year": 2009,
-   "all_releases": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "all I really want is you"
+    "half of my heart"
    ]
   },
   {
    "song": "Two Is Better Than One",
-   "album": "Love Drunk",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2009,
-   "all_releases": [
+   "other_releases": [
     "Love Drunk"
    ],
+   "all_albums": [],
    "artist_credit": "Boys Like Girls featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
-   "song": "Untouchable",
-   "album": "Fearless: Platinum Edition",
-   "album_edition_first": "Fearless: Platinum Edition",
-   "year": 2009,
-   "all_releases": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "come on, come on, little taste of heaven"
-   ]
-  },
-  {
    "song": "Back to December",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -591,10 +620,10 @@
   },
   {
    "song": "Better than Revenge",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -606,10 +635,10 @@
   },
   {
    "song": "Dear John",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -621,10 +650,10 @@
   },
   {
    "song": "Enchanted",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -636,10 +665,10 @@
   },
   {
    "song": "Haunted",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -651,10 +680,10 @@
   },
   {
    "song": "If This Was a Movie",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now"
    ],
    "artist_credit": "Taylor Swift",
@@ -665,10 +694,10 @@
   },
   {
    "song": "Innocent",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -680,10 +709,10 @@
   },
   {
    "song": "Last Kiss",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -695,10 +724,10 @@
   },
   {
    "song": "Long Live",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -710,10 +739,10 @@
   },
   {
    "song": "Mean",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -725,10 +754,10 @@
   },
   {
    "song": "Mine",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -740,10 +769,10 @@
   },
   {
    "song": "Never Grow Up",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -755,10 +784,10 @@
   },
   {
    "song": "Ours",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -770,10 +799,10 @@
   },
   {
    "song": "Sparks Fly",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -785,10 +814,10 @@
   },
   {
    "song": "Speak Now",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -800,10 +829,10 @@
   },
   {
    "song": "Superman",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -815,10 +844,10 @@
   },
   {
    "song": "The Story of Us",
-   "album": "Speak Now",
-   "album_edition_first": "Speak Now",
+   "first_album": "Speak Now",
    "year": 2010,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now",
     "Speak Now (Taylor's Version)"
    ],
@@ -830,12 +859,12 @@
   },
   {
    "song": "Safe & Sound",
-   "album": "The Hunger Games",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2011,
-   "all_releases": [
+   "other_releases": [
     "The Hunger Games"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift featuring the Civil Wars",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -844,10 +873,10 @@
   },
   {
    "song": "22",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -859,10 +888,10 @@
   },
   {
    "song": "All Too Well",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -874,10 +903,10 @@
   },
   {
    "song": "Begin Again",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -889,22 +918,22 @@
   },
   {
    "song": "Both of Us",
-   "album": "Strange Clouds",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2012,
-   "all_releases": [
+   "other_releases": [
     "Strange Clouds"
    ],
+   "all_albums": [],
    "artist_credit": "B.o.B featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
    "song": "Come Back... Be Here",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -916,10 +945,10 @@
   },
   {
    "song": "Everything Has Changed",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -931,12 +960,12 @@
   },
   {
    "song": "Eyes Open",
-   "album": "The Hunger Games",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2012,
-   "all_releases": [
+   "other_releases": [
     "The Hunger Games"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -945,10 +974,10 @@
   },
   {
    "song": "Girl at Home",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -960,25 +989,25 @@
   },
   {
    "song": "Holy Ground",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": true,
    "signature_phrases": [
-    "we were dancing all night"
+    "I guess we fell apart in the usual way"
    ]
   },
   {
    "song": "I Almost Do",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -990,10 +1019,10 @@
   },
   {
    "song": "I Knew You Were Trouble",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1005,10 +1034,10 @@
   },
   {
    "song": "Red",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1020,10 +1049,10 @@
   },
   {
    "song": "Sad Beautiful Tragic",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1035,10 +1064,10 @@
   },
   {
    "song": "Starlight",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1050,10 +1079,10 @@
   },
   {
    "song": "State of Grace",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1065,10 +1094,10 @@
   },
   {
    "song": "Stay Stay Stay",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1080,10 +1109,10 @@
   },
   {
    "song": "The Last Time",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1095,10 +1124,10 @@
   },
   {
    "song": "The Lucky One",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1110,10 +1139,10 @@
   },
   {
    "song": "The Moment I Knew",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1125,10 +1154,10 @@
   },
   {
    "song": "Treacherous",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1140,10 +1169,10 @@
   },
   {
    "song": "We Are Never Ever Getting Back Together",
-   "album": "Red",
-   "album_edition_first": "Red",
+   "first_album": "Red",
    "year": 2012,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red",
     "Red (Taylor's Version)"
    ],
@@ -1154,11 +1183,25 @@
    ]
   },
   {
+   "song": "Highway Don't Care",
+   "first_album": null,
+   "year": 2013,
+   "other_releases": [
+    "Two Lanes of Freedom"
+   ],
+   "all_albums": [],
+   "artist_credit": "Tim McGraw and Taylor Swift featuring Keith Urban",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "highway don't care"
+   ]
+  },
+  {
    "song": "All You Had to Do Was Stay",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1170,10 +1213,10 @@
   },
   {
    "song": "Bad Blood",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1185,10 +1228,10 @@
   },
   {
    "song": "Blank Space",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1200,10 +1243,10 @@
   },
   {
    "song": "Clean",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1215,10 +1258,10 @@
   },
   {
    "song": "How You Get the Girl",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1230,10 +1273,10 @@
   },
   {
    "song": "I Know Places",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1245,10 +1288,10 @@
   },
   {
    "song": "I Wish You Would",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1260,10 +1303,10 @@
   },
   {
    "song": "New Romantics",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1275,10 +1318,10 @@
   },
   {
    "song": "Out of the Woods",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1290,10 +1333,10 @@
   },
   {
    "song": "Shake It Off",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1305,10 +1348,10 @@
   },
   {
    "song": "Style",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1320,10 +1363,10 @@
   },
   {
    "song": "This Love",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1335,10 +1378,10 @@
   },
   {
    "song": "Welcome to New York",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1350,10 +1393,10 @@
   },
   {
    "song": "Wildest Dreams",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1365,10 +1408,10 @@
   },
   {
    "song": "Wonderland",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1380,10 +1423,10 @@
   },
   {
    "song": "You Are in Love",
-   "album": "1989",
-   "album_edition_first": "1989",
+   "first_album": "1989",
    "year": 2014,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989",
     "1989 (Taylor's Version)"
    ],
@@ -1395,12 +1438,12 @@
   },
   {
    "song": "I Don't Wanna Live Forever",
-   "album": "Fifty Shades Darker: Original Motion Picture Soundtrack",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2016,
-   "all_releases": [
+   "other_releases": [
     "Fifty Shades Darker: Original Motion Picture Soundtrack"
    ],
+   "all_albums": [],
    "artist_credit": "Zayn and Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -1409,10 +1452,10 @@
   },
   {
    "song": "...Ready for It?",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1423,10 +1466,10 @@
   },
   {
    "song": "Call It What You Want",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1437,10 +1480,10 @@
   },
   {
    "song": "Dancing with Our Hands Tied",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1451,10 +1494,10 @@
   },
   {
    "song": "Delicate",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1465,10 +1508,10 @@
   },
   {
    "song": "Don't Blame Me",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1479,10 +1522,10 @@
   },
   {
    "song": "Dress",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1493,10 +1536,10 @@
   },
   {
    "song": "End Game",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift featuring Ed Sheeran and Future",
@@ -1507,10 +1550,10 @@
   },
   {
    "song": "Getaway Car",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1521,10 +1564,10 @@
   },
   {
    "song": "Gorgeous",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1535,10 +1578,10 @@
   },
   {
    "song": "I Did Something Bad",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1549,10 +1592,10 @@
   },
   {
    "song": "King of My Heart",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1563,10 +1606,10 @@
   },
   {
    "song": "Look What You Made Me Do",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1577,10 +1620,10 @@
   },
   {
    "song": "New Year's Day",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1591,10 +1634,10 @@
   },
   {
    "song": "So It Goes...",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1605,10 +1648,10 @@
   },
   {
    "song": "This Is Why We Can't Have Nice Things",
-   "album": "Reputation",
-   "album_edition_first": "Reputation",
+   "first_album": "Reputation",
    "year": 2017,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Reputation"
    ],
    "artist_credit": "Taylor Swift",
@@ -1619,10 +1662,10 @@
   },
   {
    "song": "Afterglow",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1633,22 +1676,22 @@
   },
   {
    "song": "Beautiful Ghosts",
-   "album": "Cats: Highlights from the Motion Picture Soundtrack",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2019,
-   "all_releases": [
+   "other_releases": [
     "Cats: Highlights from the Motion Picture Soundtrack"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
    "song": "Christmas Tree Farm",
-   "album": "Single",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2019,
-   "all_releases": [],
+   "other_releases": [],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -1657,10 +1700,10 @@
   },
   {
    "song": "Cornelia Street",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1671,10 +1714,10 @@
   },
   {
    "song": "Cruel Summer",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1685,10 +1728,10 @@
   },
   {
    "song": "Daylight",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1699,10 +1742,10 @@
   },
   {
    "song": "Death by a Thousand Cuts",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1713,10 +1756,10 @@
   },
   {
    "song": "False God",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1727,10 +1770,10 @@
   },
   {
    "song": "I Forgot That You Existed",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1741,10 +1784,10 @@
   },
   {
    "song": "I Think He Knows",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1755,10 +1798,10 @@
   },
   {
    "song": "It's Nice to Have a Friend",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1769,10 +1812,10 @@
   },
   {
    "song": "London Boy",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1783,10 +1826,10 @@
   },
   {
    "song": "Lover",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1797,10 +1840,10 @@
   },
   {
    "song": "Me!",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift featuring Brendon Urie of Panic! at the Disco",
@@ -1811,10 +1854,10 @@
   },
   {
    "song": "Miss Americana & the Heartbreak Prince",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1825,10 +1868,10 @@
   },
   {
    "song": "Paper Rings",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1839,10 +1882,10 @@
   },
   {
    "song": "Soon You'll Get Better",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift featuring the Dixie Chicks",
@@ -1853,10 +1896,10 @@
   },
   {
    "song": "The Archer",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1867,10 +1910,10 @@
   },
   {
    "song": "The Man",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1881,10 +1924,10 @@
   },
   {
    "song": "You Need to Calm Down",
-   "album": "Lover",
-   "album_edition_first": "Lover",
+   "first_album": "Lover",
    "year": 2019,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Lover"
    ],
    "artist_credit": "Taylor Swift",
@@ -1895,10 +1938,10 @@
   },
   {
    "song": "August",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1909,10 +1952,10 @@
   },
   {
    "song": "Betty",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1923,10 +1966,10 @@
   },
   {
    "song": "Cardigan",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1937,10 +1980,10 @@
   },
   {
    "song": "Champagne Problems",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1951,10 +1994,10 @@
   },
   {
    "song": "Closure",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1965,10 +2008,10 @@
   },
   {
    "song": "Coney Island",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift featuring the National",
@@ -1979,10 +2022,10 @@
   },
   {
    "song": "Cowboy like Me",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -1993,10 +2036,10 @@
   },
   {
    "song": "Dorothea",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2007,10 +2050,10 @@
   },
   {
    "song": "Epiphany",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2021,10 +2064,10 @@
   },
   {
    "song": "Evermore",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift featuring Bon Iver",
@@ -2035,10 +2078,10 @@
   },
   {
    "song": "Exile",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift featuring Bon Iver",
@@ -2049,10 +2092,10 @@
   },
   {
    "song": "Gold Rush",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2063,10 +2106,10 @@
   },
   {
    "song": "Happiness",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2077,10 +2120,10 @@
   },
   {
    "song": "Hoax",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2091,10 +2134,10 @@
   },
   {
    "song": "Illicit Affairs",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2105,10 +2148,10 @@
   },
   {
    "song": "Invisible String",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2119,10 +2162,10 @@
   },
   {
    "song": "It's Time to Go",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2133,10 +2176,10 @@
   },
   {
    "song": "Ivy",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2147,10 +2190,10 @@
   },
   {
    "song": "Long Story Short",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2161,10 +2204,10 @@
   },
   {
    "song": "Mad Woman",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2175,10 +2218,10 @@
   },
   {
    "song": "Marjorie",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2189,10 +2232,10 @@
   },
   {
    "song": "Mirrorball",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2203,10 +2246,10 @@
   },
   {
    "song": "My Tears Ricochet",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2217,10 +2260,10 @@
   },
   {
    "song": "No Body, No Crime",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift featuring Haim",
@@ -2231,10 +2274,10 @@
   },
   {
    "song": "Only the Young",
-   "album": "Single",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2020,
-   "all_releases": [],
+   "other_releases": [],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -2243,10 +2286,10 @@
   },
   {
    "song": "Peace",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2257,10 +2300,10 @@
   },
   {
    "song": "Right Where You Left Me",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2271,10 +2314,10 @@
   },
   {
    "song": "Seven",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2285,10 +2328,10 @@
   },
   {
    "song": "The 1",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2299,10 +2342,10 @@
   },
   {
    "song": "The Lakes",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2313,10 +2356,10 @@
   },
   {
    "song": "The Last Great American Dynasty",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2327,10 +2370,10 @@
   },
   {
    "song": "This Is Me Trying",
-   "album": "Folklore",
-   "album_edition_first": "Folklore",
+   "first_album": "Folklore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Folklore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2341,10 +2384,10 @@
   },
   {
    "song": "Tis the Damn Season",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2355,10 +2398,10 @@
   },
   {
    "song": "Tolerate It",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2369,10 +2412,10 @@
   },
   {
    "song": "Willow",
-   "album": "Evermore",
-   "album_edition_first": "Evermore",
+   "first_album": "Evermore",
    "year": 2020,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Evermore"
    ],
    "artist_credit": "Taylor Swift",
@@ -2383,10 +2426,10 @@
   },
   {
    "song": "All Too Well (10 Minute Version)",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2398,11 +2441,12 @@
   },
   {
    "song": "Babe",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
-    "Bigger",
+   "other_releases": [
+    "Bigger"
+   ],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Sugarland featuring Taylor Swift",
@@ -2413,11 +2457,12 @@
   },
   {
    "song": "Better Man",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
-    "The Breaker",
+   "other_releases": [
+    "The Breaker"
+   ],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Little Big Town",
@@ -2427,11 +2472,23 @@
    ]
   },
   {
-   "song": "Bye Bye Baby",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "song": "Birch",
+   "first_album": null,
    "year": 2021,
-   "all_releases": [
+   "other_releases": [
+    "How Long Do You Think It's Gonna Last?"
+   ],
+   "all_albums": [],
+   "artist_credit": "Big Red Machine featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "Bye Bye Baby",
+   "first_album": "Fearless (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2442,10 +2499,10 @@
   },
   {
    "song": "Don't You",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2456,10 +2513,10 @@
   },
   {
    "song": "Forever Winter",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2469,11 +2526,23 @@
    ]
   },
   {
-   "song": "I Bet You Think About Me",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "song": "Gasoline",
+   "first_album": null,
    "year": 2021,
-   "all_releases": [
+   "other_releases": [
+    "Women in Music Pt. III"
+   ],
+   "all_albums": [],
+   "artist_credit": "Haim and Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": []
+  },
+  {
+   "song": "I Bet You Think About Me",
+   "first_album": "Red (Taylor's Version)",
+   "year": 2021,
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Chris Stapleton",
@@ -2484,10 +2553,10 @@
   },
   {
    "song": "Message in a Bottle",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2498,10 +2567,10 @@
   },
   {
    "song": "Mr. Perfectly Fine",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2512,10 +2581,10 @@
   },
   {
    "song": "Nothing New",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Phoebe Bridgers",
@@ -2526,12 +2595,12 @@
   },
   {
    "song": "Renegade",
-   "album": "How Long Do You Think It's Gonna Last?",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2021,
-   "all_releases": [
+   "other_releases": [
     "How Long Do You Think It's Gonna Last?"
    ],
+   "all_albums": [],
    "artist_credit": "Big Red Machine featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -2540,10 +2609,10 @@
   },
   {
    "song": "Ronan",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2554,10 +2623,10 @@
   },
   {
    "song": "Run",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Ed Sheeran",
@@ -2566,10 +2635,10 @@
   },
   {
    "song": "That's When",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Keith Urban",
@@ -2580,10 +2649,10 @@
   },
   {
    "song": "The Very First Night",
-   "album": "Red (Taylor's Version)",
-   "album_edition_first": "Red (Taylor's Version)",
+   "first_album": "Red (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Red (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2594,11 +2663,12 @@
   },
   {
    "song": "Today Was a Fairytale",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
-    "Valentine's Day",
+   "other_releases": [
+    "Valentine's Day"
+   ],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2609,10 +2679,10 @@
   },
   {
    "song": "We Were Happy",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2623,10 +2693,10 @@
   },
   {
    "song": "You All Over Me",
-   "album": "Fearless (Taylor's Version)",
-   "album_edition_first": "Fearless (Taylor's Version)",
+   "first_album": "Fearless (Taylor's Version)",
    "year": 2021,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Fearless (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Maren Morris",
@@ -2637,10 +2707,10 @@
   },
   {
    "song": "Anti-Hero",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2651,10 +2721,10 @@
   },
   {
    "song": "Bejeweled",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2665,10 +2735,10 @@
   },
   {
    "song": "Bigger Than the Whole Sky",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2679,12 +2749,12 @@
   },
   {
    "song": "Carolina",
-   "album": "Where the Crawdads Sing (Original Motion Picture Soundtrack)",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2022,
-   "all_releases": [
+   "other_releases": [
     "Where the Crawdads Sing (Original Motion Picture Soundtrack)"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -2693,10 +2763,10 @@
   },
   {
    "song": "Dear Reader",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2707,10 +2777,10 @@
   },
   {
    "song": "Glitch",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2721,10 +2791,10 @@
   },
   {
    "song": "High Infidelity",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2734,11 +2804,25 @@
    ]
   },
   {
-   "song": "Karma",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "song": "Hits Different",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (Til Dawn Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "it hits different this time"
+   ]
+  },
+  {
+   "song": "Karma",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2749,10 +2833,10 @@
   },
   {
    "song": "Labyrinth",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2763,10 +2847,10 @@
   },
   {
    "song": "Lavender Haze",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2777,10 +2861,10 @@
   },
   {
    "song": "Maroon",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2791,10 +2875,10 @@
   },
   {
    "song": "Mastermind",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2805,10 +2889,10 @@
   },
   {
    "song": "Midnight Rain",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2819,10 +2903,10 @@
   },
   {
    "song": "Paris",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2833,10 +2917,10 @@
   },
   {
    "song": "Question...?",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2847,10 +2931,10 @@
   },
   {
    "song": "Snow on the Beach",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift featuring Lana Del Rey",
@@ -2861,10 +2945,10 @@
   },
   {
    "song": "Sweet Nothing",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2875,10 +2959,10 @@
   },
   {
    "song": "The Great War",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2888,11 +2972,23 @@
    ]
   },
   {
-   "song": "Vigilante Shit",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "song": "The Joker and the Queen",
+   "first_album": null,
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [],
+   "artist_credit": "Ed Sheeran featuring Taylor Swift",
+   "counts_toward_album_total": false,
+   "signature_phrases": [
+    "the joker and the queen"
+   ]
+  },
+  {
+   "song": "Vigilante Shit",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2903,10 +2999,10 @@
   },
   {
    "song": "Would've, Could've, Should've",
-   "album": "Midnights (3am Edition)",
-   "album_edition_first": "Midnights (3am Edition)",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Midnights (3am Edition)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2916,11 +3012,25 @@
    ]
   },
   {
-   "song": "You're on Your Own, Kid",
-   "album": "Midnights",
-   "album_edition_first": "Midnights",
+   "song": "You're Losing Me",
+   "first_album": "Midnights",
    "year": 2022,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (The Late Night Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can't find a pulse"
+   ]
+  },
+  {
+   "song": "You're on Your Own, Kid",
+   "first_album": "Midnights",
+   "year": 2022,
+   "other_releases": [],
+   "all_albums": [
     "Midnights"
    ],
    "artist_credit": "Taylor Swift",
@@ -2931,10 +3041,10 @@
   },
   {
    "song": "All of the Girls You Loved Before",
-   "album": "Single",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2023,
-   "all_releases": [],
+   "other_releases": [],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -2943,10 +3053,10 @@
   },
   {
    "song": "Castles Crumbling",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Hayley Williams",
@@ -2957,10 +3067,10 @@
   },
   {
    "song": "Electric Touch",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift featuring Fall Out Boy",
@@ -2969,10 +3079,10 @@
   },
   {
    "song": "Foolish One",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -2980,25 +3090,11 @@
    "signature_phrases": []
   },
   {
-   "song": "Hits Different",
-   "album": "Midnights (Til Dawn Edition)",
-   "album_edition_first": "Midnights (Til Dawn Edition)",
-   "year": 2023,
-   "all_releases": [
-    "Midnights (Til Dawn Edition)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "it hits different this time"
-   ]
-  },
-  {
    "song": "I Can See You",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3009,10 +3105,10 @@
   },
   {
    "song": "Is It Over Now?",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3023,10 +3119,10 @@
   },
   {
    "song": "Now That We Don't Talk",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3037,10 +3133,10 @@
   },
   {
    "song": "Say Don't Go",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3051,10 +3147,10 @@
   },
   {
    "song": "Slut!",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3065,10 +3161,10 @@
   },
   {
    "song": "Suburban Legends",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3079,11 +3175,12 @@
   },
   {
    "song": "Sweeter than Fiction",
-   "album": "1989 (Taylor's Version)",
-   "album_edition_first": "1989 (Taylor's Version)",
+   "first_album": "1989 (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
-    "One Chance",
+   "other_releases": [
+    "One Chance"
+   ],
+   "all_albums": [
     "1989 (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3094,22 +3191,22 @@
   },
   {
    "song": "The Alcott",
-   "album": "First Two Pages of Frankenstein",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2023,
-   "all_releases": [
+   "other_releases": [
     "First Two Pages of Frankenstein"
    ],
+   "all_albums": [],
    "artist_credit": "The National featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
   },
   {
    "song": "Timeless",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3120,10 +3217,10 @@
   },
   {
    "song": "When Emma Falls in Love",
-   "album": "Speak Now (Taylor's Version)",
-   "album_edition_first": "Speak Now (Taylor's Version)",
+   "first_album": "Speak Now (Taylor's Version)",
    "year": 2023,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "Speak Now (Taylor's Version)"
    ],
    "artist_credit": "Taylor Swift",
@@ -3133,25 +3230,11 @@
    ]
   },
   {
-   "song": "You're Losing Me",
-   "album": "Midnights (The Late Night Edition)",
-   "album_edition_first": "Midnights (The Late Night Edition)",
-   "year": 2023,
-   "all_releases": [
-    "Midnights (The Late Night Edition)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "I can't find a pulse"
-   ]
-  },
-  {
    "song": "But Daddy I Love Him",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3162,10 +3245,10 @@
   },
   {
    "song": "Cassandra",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3176,10 +3259,10 @@
   },
   {
    "song": "Chloe or Sam or Sophia or Marcus",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3188,10 +3271,10 @@
   },
   {
    "song": "Clara Bow",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3202,10 +3285,10 @@
   },
   {
    "song": "Down Bad",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3216,10 +3299,10 @@
   },
   {
    "song": "Florida!!!",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift featuring Florence and the Machine",
@@ -3230,10 +3313,10 @@
   },
   {
    "song": "Fortnight",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift featuring Post Malone",
@@ -3244,10 +3327,10 @@
   },
   {
    "song": "Fresh Out the Slammer",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3258,10 +3341,10 @@
   },
   {
    "song": "Guilty as Sin?",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3272,10 +3355,10 @@
   },
   {
    "song": "How Did It End?",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3286,10 +3369,10 @@
   },
   {
    "song": "I Can Do It with a Broken Heart",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3300,10 +3383,10 @@
   },
   {
    "song": "I Can Fix Him (No Really I Can)",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3314,10 +3397,10 @@
   },
   {
    "song": "I Hate It Here",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3328,10 +3411,10 @@
   },
   {
    "song": "I Look in People's Windows",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3340,10 +3423,10 @@
   },
   {
    "song": "Imgonnagetyouback",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3354,10 +3437,10 @@
   },
   {
    "song": "Loml",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3368,10 +3451,10 @@
   },
   {
    "song": "My Boy Only Breaks His Favorite Toys",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3382,10 +3465,10 @@
   },
   {
    "song": "Peter",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3394,10 +3477,10 @@
   },
   {
    "song": "Robin",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3406,10 +3489,10 @@
   },
   {
    "song": "So High School",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3420,10 +3503,10 @@
   },
   {
    "song": "So Long, London",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3434,10 +3517,10 @@
   },
   {
    "song": "Thank You Aimee",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3448,10 +3531,10 @@
   },
   {
    "song": "The Albatross",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3462,10 +3545,10 @@
   },
   {
    "song": "The Alchemy",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3476,10 +3559,10 @@
   },
   {
    "song": "The Black Dog",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3490,10 +3573,10 @@
   },
   {
    "song": "The Bolter",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3504,10 +3587,10 @@
   },
   {
    "song": "The Manuscript",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3518,10 +3601,10 @@
   },
   {
    "song": "The Prophecy",
-   "album": "The Tortured Poets Department: The Anthology",
-   "album_edition_first": "The Tortured Poets Department: The Anthology",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department: The Anthology"
    ],
    "artist_credit": "Taylor Swift",
@@ -3532,10 +3615,10 @@
   },
   {
    "song": "The Smallest Man Who Ever Lived",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3546,10 +3629,10 @@
   },
   {
    "song": "The Tortured Poets Department",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3560,13 +3643,13 @@
   },
   {
    "song": "Us",
-   "album": "The Secret of Us",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2024,
-   "all_releases": [
+   "other_releases": [
     "The Secret of Us"
    ],
-   "artist_credit": "Gracie Abrams featuring Taylor Swift",
+   "all_albums": [],
+   "artist_credit": "Gracie Abrams<br/ >featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
     "do you miss us"
@@ -3574,10 +3657,10 @@
   },
   {
    "song": "Who's Afraid of Little Old Me?",
-   "album": "The Tortured Poets Department",
-   "album_edition_first": "The Tortured Poets Department",
+   "first_album": "The Tortured Poets Department",
    "year": 2024,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Tortured Poets Department"
    ],
    "artist_credit": "Taylor Swift",
@@ -3588,10 +3671,10 @@
   },
   {
    "song": "Actually Romantic",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3600,10 +3683,10 @@
   },
   {
    "song": "Cancelled!",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3612,10 +3695,10 @@
   },
   {
    "song": "Eldest Daughter",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3624,10 +3707,10 @@
   },
   {
    "song": "Elizabeth Taylor",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3639,10 +3722,10 @@
   },
   {
    "song": "Father Figure",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3653,10 +3736,10 @@
   },
   {
    "song": "Honey",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3665,10 +3748,10 @@
   },
   {
    "song": "Opalite",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3677,10 +3760,10 @@
   },
   {
    "song": "Ruin the Friendship",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3691,10 +3774,10 @@
   },
   {
    "song": "The Fate of Ophelia",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3705,10 +3788,10 @@
   },
   {
    "song": "The Life of a Showgirl",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift featuring Sabrina Carpenter",
@@ -3717,10 +3800,10 @@
   },
   {
    "song": "Wish List",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3731,10 +3814,10 @@
   },
   {
    "song": "Wood",
-   "album": "The Life of a Showgirl",
-   "album_edition_first": "The Life of a Showgirl",
+   "first_album": "The Life of a Showgirl",
    "year": 2025,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl"
    ],
    "artist_credit": "Taylor Swift",
@@ -3745,10 +3828,10 @@
   },
   {
    "song": "Babylon",
-   "album": "The Life of a Showgirl: The Encore",
-   "album_edition_first": "The Life of a Showgirl: The Encore",
+   "first_album": "The Life of a Showgirl",
    "year": 2026,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl: The Encore"
    ],
    "artist_credit": "Taylor Swift",
@@ -3757,10 +3840,10 @@
   },
   {
    "song": "Cleveland!",
-   "album": "The Life of a Showgirl: The Encore",
-   "album_edition_first": "The Life of a Showgirl: The Encore",
+   "first_album": "The Life of a Showgirl",
    "year": 2026,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl: The Encore"
    ],
    "artist_credit": "Taylor Swift",
@@ -3769,12 +3852,12 @@
   },
   {
    "song": "I Knew It, I Knew You",
-   "album": "Toy Story 5 (Original Motion Picture Soundtrack)",
-   "album_edition_first": null,
+   "first_album": null,
    "year": 2026,
-   "all_releases": [
+   "other_releases": [
     "Toy Story 5 (Original Motion Picture Soundtrack)"
    ],
+   "all_albums": [],
    "artist_credit": "Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
@@ -3785,10 +3868,10 @@
   },
   {
    "song": "Patient Zero",
-   "album": "The Life of a Showgirl: The Encore",
-   "album_edition_first": "The Life of a Showgirl: The Encore",
+   "first_album": "The Life of a Showgirl",
    "year": 2026,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl: The Encore"
    ],
    "artist_credit": "Taylor Swift",
@@ -3799,10 +3882,10 @@
   },
   {
    "song": "Pink Clouding",
-   "album": "The Life of a Showgirl: The Encore",
-   "album_edition_first": "The Life of a Showgirl: The Encore",
+   "first_album": "The Life of a Showgirl",
    "year": 2026,
-   "all_releases": [
+   "other_releases": [],
+   "all_albums": [
     "The Life of a Showgirl: The Encore"
    ],
    "artist_credit": "Taylor Swift",
