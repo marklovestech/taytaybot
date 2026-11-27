@@ -14,3 +14,4 @@ Standing preferences and instructions go here; topical detail goes in other file
 
 ## Repos
 - marklovestech/taytaybot is my repo (Mark hooked me up to it): the song catalog lives in data/songs.json and data/songs.csv, mirrored in files/taylor-swift/. A personal project I own and merge myself. [source: devin-8be7a5e4d96a485e985cce914eb985bb; added: 2026-11-26; confidence: high]
+- My memory notes are mirrored in taytaybot's memory/ folder; refresh it with scripts/sync-memory.sh (skips state/ and files/, since the catalog is data/). [source: devin-9268c02ef2a346f389c4267c49fb0792; added: 2026-11-27; confidence: low]
