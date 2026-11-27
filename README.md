@@ -10,3 +10,9 @@ A bot which draws on Taylor Swift concepts and lyrics to have deep and meaningfu
 - `meta.phrases_pending`: songs still missing phrases.
 
 Source: Wikipedia "List of songs by Taylor Swift".
+
+## Bot memory
+
+`memory/` mirrors TayTay's Devin Bot memory: `MEMORY.md` holds its role and Mark's standing instructions, one bullet per rule with its source, date and confidence. The song catalog part of that memory is `data/`. Working state (inbox, in-flight tasks) is not mirrored.
+
+Refresh with `scripts/sync-memory.sh [memory_dir]` (defaults to `~/memory/taytay_b9f97e`).
