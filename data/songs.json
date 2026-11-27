@@ -2,7 +2,7 @@
  "meta": {
   "description": "Catalog of released Taylor Swift songs: first album, year, and a few short signature phrases per song. Full lyrics are intentionally not stored.",
   "source": "Wikipedia 'List of songs by Taylor Swift' (fetched 2026-11-26); phrases are short hooks only",
-  "counting_rule": "first_album is the album family the song first appeared on, with deluxe, bonus and reissue editions grouped under it (e.g. Fearless Platinum -> Fearless, Midnights 3am/Til Dawn -> Midnights, TTPD Anthology -> The Tortured Poets Department); Taylor's Version albums are separate, but a re-recording keeps its original first_album. year is when the song first appeared on that album. first_album is null for songs on no Taylor album. counts_toward_album_total excludes those and the 10-minute All Too Well.",
+  "counting_rule": "first_album is the album family the song first appeared on, with deluxe, bonus and reissue editions grouped under it (e.g. Fearless Platinum -> Fearless, Midnights 3am/Til Dawn -> Midnights, TTPD Anthology -> The Tortured Poets Department); Taylor's Version albums are separate, but a re-recording keeps its original first_album. year is when the song first appeared on that album (edition release year, e.g. Fearless Platinum tracks 2009). other_releases lists non-Taylor-album releases (soundtracks, other artists' albums). first_album is null for songs on no Taylor album. counts_toward_album_total excludes those and the 10-minute All Too Well.",
   "album_song_total": 248,
   "song_entries": 274,
   "excluded": "covers of other writers' songs, alternate versions/remixes, and songs Swift wrote that only other artists released",
@@ -13,8 +13,8 @@
    "Hold On",
    "Beautiful Eyes",
    "I Heart ?",
-   "Superstar",
    "Crazier",
+   "Superstar",
    "Two Is Better Than One",
    "Both of Us",
    "Beautiful Ghosts",
@@ -316,21 +316,6 @@
    ]
   },
   {
-   "song": "Come in with the Rain",
-   "first_album": "Fearless",
-   "year": 2008,
-   "other_releases": [],
-   "all_albums": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "I'll leave my window open"
-   ]
-  },
-  {
    "song": "Fearless",
    "first_album": "Fearless",
    "year": 2008,
@@ -403,21 +388,6 @@
    "signature_phrases": []
   },
   {
-   "song": "Jump Then Fall",
-   "first_album": "Fearless",
-   "year": 2008,
-   "other_releases": [],
-   "all_albums": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "jump then fall into me"
-   ]
-  },
-  {
    "song": "Love Story",
    "first_album": "Fearless",
    "year": 2008,
@@ -431,19 +401,6 @@
    "signature_phrases": [
     "it's a love story, baby, just say yes"
    ]
-  },
-  {
-   "song": "Superstar",
-   "first_album": "Fearless",
-   "year": 2008,
-   "other_releases": [],
-   "all_albums": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": []
   },
   {
    "song": "Tell Me Why",
@@ -476,21 +433,6 @@
    ]
   },
   {
-   "song": "The Other Side of the Door",
-   "first_album": "Fearless",
-   "year": 2008,
-   "other_releases": [],
-   "all_albums": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "all I really want is you"
-   ]
-  },
-  {
    "song": "The Way I Loved You",
    "first_album": "Fearless",
    "year": 2008,
@@ -503,21 +445,6 @@
    "counts_toward_album_total": true,
    "signature_phrases": [
     "I miss screaming and fighting and kissing in the rain"
-   ]
-  },
-  {
-   "song": "Untouchable",
-   "first_album": "Fearless",
-   "year": 2008,
-   "other_releases": [],
-   "all_albums": [
-    "Fearless: Platinum Edition",
-    "Fearless (Taylor's Version)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "come on, come on, little taste of heaven"
    ]
   },
   {
@@ -566,6 +493,21 @@
    ]
   },
   {
+   "song": "Come in with the Rain",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I'll leave my window open"
+   ]
+  },
+  {
    "song": "Crazier",
    "first_album": null,
    "year": 2009,
@@ -592,6 +534,49 @@
    ]
   },
   {
+   "song": "Jump Then Fall",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "jump then fall into me"
+   ]
+  },
+  {
+   "song": "Superstar",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": []
+  },
+  {
+   "song": "The Other Side of the Door",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "all I really want is you"
+   ]
+  },
+  {
    "song": "Two Is Better Than One",
    "first_album": null,
    "year": 2009,
@@ -602,6 +587,21 @@
    "artist_credit": "Boys Like Girls featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": []
+  },
+  {
+   "song": "Untouchable",
+   "first_album": "Fearless",
+   "year": 2009,
+   "other_releases": [],
+   "all_albums": [
+    "Fearless: Platinum Edition",
+    "Fearless (Taylor's Version)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "come on, come on, little taste of heaven"
+   ]
   },
   {
    "song": "Back to December",
@@ -3012,20 +3012,6 @@
    ]
   },
   {
-   "song": "You're Losing Me",
-   "first_album": "Midnights",
-   "year": 2022,
-   "other_releases": [],
-   "all_albums": [
-    "Midnights (The Late Night Edition)"
-   ],
-   "artist_credit": "Taylor Swift",
-   "counts_toward_album_total": true,
-   "signature_phrases": [
-    "I can't find a pulse"
-   ]
-  },
-  {
    "song": "You're on Your Own, Kid",
    "first_album": "Midnights",
    "year": 2022,
@@ -3227,6 +3213,20 @@
    "counts_toward_album_total": true,
    "signature_phrases": [
     "when Emma falls in love"
+   ]
+  },
+  {
+   "song": "You're Losing Me",
+   "first_album": "Midnights",
+   "year": 2023,
+   "other_releases": [],
+   "all_albums": [
+    "Midnights (The Late Night Edition)"
+   ],
+   "artist_credit": "Taylor Swift",
+   "counts_toward_album_total": true,
+   "signature_phrases": [
+    "I can't find a pulse"
    ]
   },
   {
@@ -3649,7 +3649,7 @@
     "The Secret of Us"
    ],
    "all_albums": [],
-   "artist_credit": "Gracie Abrams<br/ >featuring Taylor Swift",
+   "artist_credit": "Gracie Abrams featuring Taylor Swift",
    "counts_toward_album_total": false,
    "signature_phrases": [
     "do you miss us"
